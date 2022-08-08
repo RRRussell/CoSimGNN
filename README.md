@@ -1,5 +1,6 @@
-# Hierarchical Large-scale Graph Similarity Computation via Graph Coarsening and Matching
-![CoSimGNN](./CoSimGNN.PNG)
+# CoSimGNN: Coarsening-based Similarity Computation via Graph Neural Networks
+
+This repository is the official implementation of [CoSimGNN: Towards Large-scale Graph Similarity Computation](https://arxiv.org/abs/2005.07115).
 
 ## Requirements
 
